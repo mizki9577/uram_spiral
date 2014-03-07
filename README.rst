@@ -1,6 +1,14 @@
-uram_spiral
+ウラムの螺旋
 ===========
 
-CoffeeScript + Canvas でウラムの螺旋を描く
+なにこれ
+--------
+CoffeeScript + Canvas でウラムの螺旋を描くよ
 
-`git clone` して `./build.sh` して `xdg-open index.html` すれば動くよ多分
+どうやって動かすの
+------------------
+|git clone| して |./build.sh| して |xdg-open index.html| すれば動くよ多分
+
+サンプル
+--------
+.. image:: sample.png
